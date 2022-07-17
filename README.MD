@@ -17,3 +17,8 @@
     - Haven't used it in a while, so probably rusty.
  - ![](https://icons-for-free.com/download-icon-java+original-1324760550667278175_32.png) Java
     - Again, haven't used it in a while, last used around the release of MC 1.7.10
+
+### Things I'm trying to learn.
+ - ![](https://icons-for-free.com/download-icon-development+js+laravel+logo+icon-1320184809513071373_32.png) Laravel, a common PHP framework. To bring my PHP up to speed.
+ - ![](https://icons-for-free.com/download-icon-react+original-1324760565814167828_32.png) React, a really common JS front end for webapps. May use to work hand in hand with a Laravel project.
+ - ![](https://icons-for-free.com/download-icon-database-131964752588502017_32.png) NoSQL Databases, my current knowledge is mostly focused around SQL Databases only.
