@@ -3,7 +3,7 @@
 
 ## I'm Astra/Astralis, a mostly hobbiest programmer from the south of the UK.
 ###### Yes I like tea.
-## I use they/them pronouns!
+## I use she/her pronouns!
 
 ### Languages I can work in (In order of proficency):
  - ![](https://icons-for-free.com/download-icon-vscode+icons+type+haxe-1324451316628400255_32.png) Haxe
